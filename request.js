@@ -1,11 +1,3 @@
-/*
- * @Author: your name
- * @Date: 2021-06-28 09:00:58
- * @LastEditTime: 2021-06-28 09:51:00
- * @LastEditors: Please set LastEditors
- * @Description: In User Settings Edit
- * @FilePath: \JS\request.js
- */
 const baseUrl = 'https://xcx.paoding.cc'
 const isDebug = true
 
